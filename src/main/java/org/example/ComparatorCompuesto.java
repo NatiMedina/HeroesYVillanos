@@ -15,10 +15,16 @@ public class ComparatorCompuesto implements Comparator {
     }
 
     public boolean addComparator(Comparator c) {
+        if (c == null) {
+            return false;
+        }
         return comparators.add(c);
     }
 
     public boolean addComparator(Comparator c, int index) {
+        if (c == null) {
+            return false;
+        }
         comparators.add(index, c);
         return true;
     }

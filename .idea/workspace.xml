@@ -5,25 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8c03a980-edf6-494a-9ac1-d6e28c085666" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Atributo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/AtributoCondicional.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/AtributoOperacion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/AtributoSimple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Comparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ComparatorCompuesto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ComparatorCriterioSimple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ComparatorNombre.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Enfrentable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Juego.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Liga.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Personaje.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/ComparatorCompuesto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/ComparatorCompuesto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Enfrentable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Enfrentable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Juego.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Juego.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Liga.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Liga.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
